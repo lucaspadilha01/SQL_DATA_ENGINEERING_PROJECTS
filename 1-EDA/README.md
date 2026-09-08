@@ -27,10 +27,9 @@ Analistas do mercado de trabalho precisam responder a perguntas como:
 - 💰 **Mais bem pagas**: Quais habilidades garantem os maiores salários?
 - ⚖️ **Melhor relação custo-benefício**: Qual é o conjunto ideal de habilidades para equilibrar demanda e remuneração?
 
-Este projeto analisa um data warehouse construído com um design de esquema em estrela (star schema). A estrutura do data warehouse consiste em:
+Este projeto analisa um data warehouse construído com um design de esquema estrela (star schema). A estrutura do data warehouse consiste em:
 
-![Parte 1  - Esquema de dados](/1-EDA\Imagens/_2_Data_Warehouse.png)
-
+![Parte 1  - Esquema de dados](Imagens/1_2_Data_Warehouse.png)
 
 ## Tecnologias Utilizadas
 
