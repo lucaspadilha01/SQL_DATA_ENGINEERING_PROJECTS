@@ -1,7 +1,7 @@
 # Análise exploratória de dados : Job Market Analysis
 
 
-![Parte 1  - Visão geral](../1-EDA\Imagens\1_1_Project1_EDA.png)
+![Parte 1  - Visão geral](/1-EDA\Imagens\1_1_Project1_EDA.png)
 
 Análise do Mercado de Trabalho de Engenharia de Dados com SQLg
 
@@ -29,7 +29,7 @@ Analistas do mercado de trabalho precisam responder a perguntas como:
 
 Este projeto analisa um data warehouse construído com um design de esquema em estrela (star schema). A estrutura do data warehouse consiste em:
 
-![Parte 1  - Esquema de dados](../1-EDA\Imagens\1_2_Data_Warehouse.png)
+![Parte 1  - Esquema de dados](/1-EDA\Imagens\1_2_Data_Warehouse.png)
 
 
 ## Tecnologias Utilizadas
