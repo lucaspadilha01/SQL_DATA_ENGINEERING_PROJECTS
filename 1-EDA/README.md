@@ -3,7 +3,7 @@
 
 ![Parte 1  - Visão geral](../1-EDA\Imagens\1_1_Project1_EDA.png)
 
-Análise do Mercado de Trabalho de Engenharia de Dados com SQL
+Análise do Mercado de Trabalho de Engenharia de Dados com SQLg
 
 Este porjeto, é uma análise exploratória de dados utilizando dados reais de vagas de emprego para mapear tendências de mercado, competências mais demandadas e faixas salariais. O projeto demonstra a aplicação de SQL analítico avançado na construção de consultas performáticas e na conversão de perguntas de negócios em insights estratégicos baseados em dados. 
 
@@ -42,9 +42,9 @@ Este projeto analisa um data warehouse construído com um design de esquema em e
 
 
 ## Análises SQL
-- [Top  Habilidades Mais Demandadas](1-EDA\01_top_demanded_skills.sql)
-- [Top  Habilidades Mais Bem Pagas](1-EDA\02_top_paying_skills.sql)
-- [Top  Habilidades com Melhor Relação Custo-Benefício](1-EDA\03_optimal_skills.sql)
+- [Top  Habilidades Mais Demandadas](01_top_demanded_skills.sql)
+- [Top  Habilidades Mais Bem Pagas](02_top_paying_skills.sql)
+- [Top  Habilidades com Melhor Relação Custo-Benefício](03_optimal_skills.sql)
 
 ### Principais Insights 
 
