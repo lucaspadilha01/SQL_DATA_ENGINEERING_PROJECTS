@@ -16,7 +16,7 @@ Análise de tendências do mercado de trabalho de engenharia de dados baseada em
 
 
 ## 2_WH_Mart_Build - Pipeline de Dados - Data Warehouse & Mart
-![Projeto 2 - Esquema do projeto 2](Recursos_Imagens/1_2_Project2_Data_Pipeline.png)
+![Projeto 2 - Esquema do projeto 2](Recursos_Imagens/1_2_Project2_Data_Pipeline.jfif)
 
 Análise e design de um Data Warehouse para um sistema de vendas de varejo (construção de um data mart com tabelas fato e dimensão)
 
